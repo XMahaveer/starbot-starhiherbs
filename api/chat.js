@@ -72,7 +72,8 @@ module.exports = async function handler(req, res) {
       return res.end(JSON.stringify({ error: "Message is required" }));
     }
 
-    const systemPrompt = loadSystemPrompt();
+    // const systemPrompt = loadSystemPrompt();
+    const systemPrompt = "You are StarBot, AI assistant for Star Hi Herbs. Be helpful and professional.";
 
     // Build messages array — validate and sanitize history
     const validHistory = Array.isArray(conversationHistory)
