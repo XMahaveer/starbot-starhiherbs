@@ -72,8 +72,7 @@ module.exports = async function handler(req, res) {
       return res.end(JSON.stringify({ error: "Message is required" }));
     }
 
-    // const systemPrompt = loadSystemPrompt();
-    const systemPrompt = "You are StarBot, AI assistant for Star Hi Herbs. Be helpful and professional.";
+    const systemPrompt = loadSystemPrompt();
 
     // Build messages array — validate and sanitize history
     const validHistory = Array.isArray(conversationHistory)
@@ -107,11 +106,12 @@ module.exports = async function handler(req, res) {
   } catch (error) {
     console.error("Chat API error:", error);
 
+    const isApiError = error?.status || error?.message?.includes("API");
+    const userMessage = isApiError
+      ? "I'm having trouble connecting right now. Please email starhi@starhiherbs.com directly or call +91 89 7179 3584."
+      : "Something went wrong. Please try again or contact starhi@starhiherbs.com.";
+
     res.writeHead(500, { ...corsHeaders, "Content-Type": "application/json" });
-    res.end(JSON.stringify({
-      error: error.message,
-      reply: error.message,
-      status: error.status
-    }));
+    res.end(JSON.stringify({ error: userMessage, reply: userMessage }));
   }
 };
