@@ -7,6 +7,8 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const ALLOWED_ORIGINS = [
   "https://starhiherbs.com",
   "https://www.starhiherbs.com",
+  "https://starbot-demo.vercel.app",
+  "https://starbot-demo-2ek40gt8l-mahaveer-rajendra-savanur-s-projects.vercel.app",
   "http://localhost:3000",
   "http://localhost:5500",
   "http://127.0.0.1:5500",
