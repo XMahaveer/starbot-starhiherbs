@@ -1,0 +1,12 @@
+{
+  "name": "starbot-backend",
+  "version": "1.0.0",
+  "description": "StarBot backend API for Star Hi Herbs",
+  "main": "index.js",
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
