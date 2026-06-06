@@ -2,6 +2,8 @@ const Anthropic = require("@anthropic-ai/sdk");
 const fs = require("fs");
 const path = require("path");
 
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
 const ALLOWED_ORIGINS = [
   "https://starhiherbs.com",
   "https://www.starhiherbs.com",
@@ -70,7 +72,6 @@ module.exports = async function handler(req, res) {
       return res.end(JSON.stringify({ error: "Message is required" }));
     }
 
-    const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
     const systemPrompt = loadSystemPrompt();
 
     // Build messages array — validate and sanitize history
