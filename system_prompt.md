@@ -149,187 +149,464 @@ The following is the complete, authoritative knowledge base for Star Hi Herbs. U
 
 #### STANDARDIZED HERBAL EXTRACTS (Standard MOQ: 25 kg)
 
-**1. Bacopa Monnieri Extract (Brahmi)**
+**1. Bacopa Monnieri Extract**
 - Botanical: *Bacopa monnieri* (Whole Herb)
 - Standardization: 10%, 20%, 40%, 50% Bacosides
-- Appearance: Fine greenish-brown powder | Shelf Life: 36 months
-- Testing: HPLC, UV analysis
-- Applications: Cognitive supplements, nootropics, stress management, capsules, gummies, beverages
-- Benefits: Memory and recall, cognitive function, stress response, neuroprotection
-- Clinical: Multiple clinical trials — memory improvement, anxiety reduction, neuroprotection
-- Certifications: ISO 9001:2015, FSSC 22000, Halal, Kosher, WHO GMP, FSSAI
-- URL: https://starhiherbs.com/products/bacopa-extract
+- Testing: UV Spectrophotometry, HPLC
 
-**2. Ashwagandha Extract (Withania somnifera)**
+**2. Ashwagandha Extract**
 - Botanical: *Withania somnifera* (Root)
 - Standardization: 0.35% Withaferin A; 1.5%, 2.5%, 3%, 4%, 5%, 8%, 10% Withanolides
-- Appearance: Fine light brown powder | Shelf Life: 24 months
-- Testing: HPLC + Gravimetric (USP-grade ethanol extraction)
-- Applications: Adaptogenic supplements, stress management, sleep support, cognitive health, sports nutrition
-- Benefits: Adaptogenic, cortisol reduction, cognitive support, sleep enhancement, immune support
-- Clinical: Reduces cortisol, improves sleep quality, enhances cognitive function, supports recovery
-- Certifications: ISO 9001:2015, FSSC 22000, Halal, Kosher, WHO GMP, FSSAI
-- URL: https://starhiherbs.com/products/ashwagandha-extract
+- Testing: HPLC, Gravimetry
 
 **3. Coleus Forskohlii Extract**
-- Botanical: *Plectranthus barbatus* (Root) — formerly Coleus forskohlii
-- Note: **World's largest manufacturer**
+- Botanical: *Plectranthus barbatus* (Root)
 - Standardization: 1%, 3.5%, 4%, 5%, 8%, 10%, 12%, 20%, 30%, 40%, 95%, 98% Forskolin
-- Appearance: Fine light brown to tan powder | Shelf Life: 24 months
-- Testing: HPLC (USP-grade ethanol)
-- Applications: Weight management, testosterone support, cardiovascular, respiratory, sports
-- Benefits: cAMP activation, metabolic rate enhancement, testosterone support, blood pressure, bronchodilation
-- Certifications: ISO 9001:2015, FSSC 22000, Halal, Kosher, FSSAI
-- URL: https://starhiherbs.com/products/coleus-forskohlii-extract
+- Testing: HPLC
 
 **4. Sesamin Complex Extract**
 - Botanical: *Sesamum indicum* (Seeds)
-- Note: **World's largest manufacturer**
 - Standardization: 10%, 20%, 30%, 60%, 70%, 80%, 90%, 95%, 98% Sesamin and Sesamolin
-- Appearance: Light yellowish-brown powder | Shelf Life: 24 months
-- Testing: Titration analysis
-- Applications: Liver health, antioxidant, cardiovascular, sports nutrition, anti-aging
-- Benefits: Liver support/detox, antioxidant protection, lipid metabolism, exercise recovery
-- Certifications: ISO 9001:2015, FSSC 22000, Halal, Kosher, WHO GMP, FSSAI
-- URL: https://starhiherbs.com/products/sesamin-extract
+- Testing: HPLC
 
 **5. Banaba Leaf Extract**
 - Botanical: *Lagerstroemia speciosa* (Leaf)
-- Standardization: 1% to 20% Corosolic Acid
-- Appearance: Fine powder, light to dark brown | Particle Size: 95% through 80 mesh | Shelf Life: 24 months
+- Standardization: 1%, 2%, 5%, 10%, 20% Corosolic Acid
 - Testing: HPLC
-- Applications: Blood sugar management, weight management, metabolic health, capsules, gummies
-- Certifications: ISO 9001:2015, FSSC 22000, Halal, Kosher, WHO GMP, FSSAI
-- URL: https://starhiherbs.com/products/banaba-leaf-extract
 
 **6. Turmeric Water Extract**
 - Botanical: *Curcuma longa* (Rhizome)
 - Standardization: Up to 10% Polysaccharides
-- Appearance: Brown to dark brown powder or granules (water-soluble) | Shelf Life: 36 months
-- Note: Focuses on water-soluble polysaccharide fraction, NOT curcuminoids
-- Applications: Immune support, joint health, digestive health, holistic wellness
-- URL: https://starhiherbs.com/products/turmeric-water-extract
+- Testing: HPLC
 
 **7. Trikatu Extract**
-- Botanical: *Piper longum*, *Zingiber officinale*, *Piper nigrum* (Fruit and Root)
+- Botanical: *Piper longum, Zingiber officinale, Piper nigrum* (Fruit and Root)
 - Standardization: 1.5% Piperine and 1.0% Total Gingerols
-- Appearance: Brown powder or granules | Shelf Life: 36 months
-- Applications: Digestive health, bioavailability enhancers, thermogenic formulations, Ayurvedic blends
-- URL: https://starhiherbs.com/products/trikatu-extract
+- Testing: HPLC
 
 **8. Terminalia Chebula Extract**
+- Botanical: *Terminalia chebula* (Fruit)
+- Standardization: 40%, 45% Tannins
+- Testing: Titration
+
+**9. Green Tea Extract**
+- Botanical: *Camellia sinensis* (Leaves)
+- Standardization: 50%, 60%, 90%, 95%, 98% Polyphenols
+- Testing: UV Spectrophotometry, HPLC
+
+**10. Berberis Aristata Extract**
+- Botanical: *Berberis aristata* (Roots and Bark)
+- Standardization: 1%, 5%, 6%, 10%, 60%, 70%, 98% Berberine
+- Testing: HPLC
+
+**11. Black Pepper Extract**
+- Botanical: *Piper nigrum* (Dried fruits)
+- Standardization: 5%, 95% Piperine
+- Testing: HPLC
+
+**12. Boswellia Serrata Extract**
+- Botanical: *Boswellia serrata* (Gum resin)
+- Standardization: 25%, 30%, 40%, 45%, 50%, 65%, 70%, 75% Boswellic Acids (incl. AKBA)
+- Testing: Titration, HPLC
+
+**13. Gymnema Sylvestre Extract**
+- Botanical: *Gymnema sylvestre* (Leaves)
+- Standardization: 5%, 25%, 35%, 40%, 75% Gymnemic Acids
+- Testing: Gravimetry
+
+**14. Tribulus Terrestris Extract**
+- Botanical: *Tribulus terrestris* (Fruit)
+- Standardization: 40%, 45%, 60% Saponins
+- Testing: Gravimetry
+
+**15. Ginger Extract**
+- Botanical: *Zingiber officinale* (Rhizome)
+- Standardization: 5%, 10%, 20% Gingerols
+- Testing: HPLC
+
+**16. Andrographis Extract**
+- Botanical: *Andrographis paniculata* (Aerial parts)
+- Standardization: 10%, 20%, 30%, 50%, 90% Andrographolides
+- Testing: HPLC
+
+**17. Shilajit Extract**
+- Botanical: *Asphaltum punjabianum* (Resin)
+- Standardization: 1%, 10%, 20%, 40%, 50% Fulvic Acid
+- Testing: Gravimetry
+
+**18. Licorice Extract (Glabridin)**
+- Botanical: *Glycyrrhiza glabra* (Root)
+- Standardization: 20%, 40% Glabridin
+- Testing: HPLC
+
+**19. Amla Extract**
+- Botanical: *Emblica officinalis* (Fruit)
+- Standardization: 20%, 40% Tannins
+- Testing: Titration
+
+**20. Pomegranate Extract**
+- Botanical: *Punica granatum* (Fruit)
+- Standardization: 20%, 30%, 40%, 90% Ellagic Acid
+- Testing: HPLC
+
+**21. Mucuna Extract**
+- Botanical: *Mucuna pruriens* (Seed)
+- Standardization: 10%, 15%, 20%, 30%, 50% L-Dopa
+- Testing: HPLC
+
+**22. Capsicum Annuum Extract Beadlets**
+- Botanical: *Capsicum annuum* (Fruit)
+- Standardization: 2% Capsaicin (beadlets); 2%, 95% Capsaicin
+- Testing: HPLC
+
+**23. Coffee Bean Extract**
+- Botanical: *Coffea arabica* (Bean)
+- Standardization: 25%, 35%, 45%, 50%, 60%, 75% Chlorogenic Acids
+- Testing: HPLC
+
+**24. Commiphora Mukul Extract**
+- Botanical: *Commiphora mukul* (Resin)
+- Standardization: 2%, 2.5%, 3%, 5%, 5.5%, 10% Guggulsterones
+- Testing: HPLC, UV
+
+**25. Cucumis Sativus Extract**
+- Botanical: *Cucumis sativus* (Fruit)
+- Standardization: 1%, 1.5% Iminosugars
+- Testing: HPLC
+
+**26. Garcinia Gummi-Gutta Extract**
+- Botanical: *Garcinia cambogia (Garcinia gummi-gutta)* (Fruit Rind)
+- Standardization: 50%, 60% HCA Calcium Salt; 50%, 60%, 65%, 70% HCA Water Soluble
+- Testing: HPLC
+
+**27. Kidney Bean Extract**
+- Botanical: *Phaseolus vulgaris* (Seed)
+- Standardization: 3000-20000 IU/g Alpha-Amylase Inhibition
+- Testing: Spectrometry
+
+**28. Momordica Extract**
+- Botanical: *Momordica charantia* (Fruit)
+- Standardization: 5%, 8% Bitters
+- Testing: Gravimetry
+
+**29. Saw Palmetto Extract**
+- Botanical: *Serenoa repens* (Berry)
+- Standardization: 25%, 32%, 85%, 95% Total Fatty Acids
+- Testing: GC (Gas Chromatography)
+
+**30. Senna Extract**
+- Botanical: *Senna alexandrina* (Leaves/Pods)
+- Standardization: 1.5%, 10%, 20%, 40% Sennosides A+B
+- Testing: HPLC
+
+**31. Clove Extract**
+- Botanical: *Syzygium aromaticum* (Flower Bud)
+- Standardization: 15% Tannins/Polyphenols
+- Testing: UV Spectrophotometry
+
+**32. Marigold Extract (Lutein)**
+- Botanical: *Tagetes erecta* (Flower)
+- Standardization: 20% Lutein powder by HPLC; 20% Lutein soft (oleoresin) by HPLC
+- Testing: HPLC
+
+**33. Bacopa Monnieri Extract Granules**
+- Botanical: *Bacopa monnieri* (Whole Herb)
+- Standardization: 45% Bacosides (Ethanol/Methanol grade)
+- Testing: UV Spectrophotometry
+
+**34. Turmeric Extract Granules**
+- Botanical: *Curcuma longa* (Rhizome)
+- Standardization: 7.5%, 85%, 90% Curcuminoids
+- Testing: HPLC
+
+**35. Capsicum Annum Extract**
+- Standardization: 2% Capsaicin (beadlets); 2%, 95% Capsaicin
+- Testing: HPLC
+
+**36. Centella Asiatica Extract**
+- Standardization: 6%, 10%, 20% Saponins
+- Testing: Gravimetry
+
+**37. Cinnamon Extract**
+- Standardization: 5%, 8%, 10%, 12% Polyphenols
+- Testing: UV Spectrophotometry
+
+**38. Cissus Extract**
+- Standardization: 2.5%, 5% 3-Ketosterones
+- Testing: Gravimetry
+
+**39. DGL Extract**
+- Standardization: <3% Glycyrrhizin (Deglycyrrhizinated)
+- Testing: HPLC
+
+**40. Fenugreek Extract**
+- Standardization: 20%, 40%, 50%, 60% Saponins
+- Testing: Gravimetry
+
+**41. Garcinia Cambogia Extract**
+- Standardization: 50%, 60% HCA Calcium Salt; 50%, 60%, 65%, 70% HCA Water Soluble
+- Testing: HPLC
+
+**42. Garcinia Indica Extract**
+- Standardization: 50% Hydroxy Citric Acid (HCA)
+- Testing: HPLC
+
+**43. Licorice Extract**
+- Standardization: 20%, 40% Glabridin
+- Testing: HPLC
+
+**44. Moringa Leaves Extract**
+- Standardization: 5%, 10%, 20%, 25%, 40% Saponins
+- Testing: Gravimetry
+
+**45. Ocimum Sanctum Extract**
+- Standardization: 2.5%, 3% Ursolic and Oleanolic Acids
+- Testing: HPLC
+
+**46. Piper Longum Extract**
+- Standardization: 5%, 95% Piperine
+- Testing: HPLC
+
+**47. Saw Palmetto Extract (Oil)**
+- Standardization: 25%, 32%, 85%, 95% Total Fatty Acids
+- Testing: GC (Gas Chromatography)
+
+**48. Terminalia Bellerica Extract**
+- Standardization: 40%, 45% Tannins
+- Testing: Titration
+
+**49. Turmeric Extract**
+- Standardization: 35%, 50%, 75%, 85%, 90%, 95% Curcuminoids
+- Testing: HPLC
+
+**50. White Kidney Bean Extract**
+- Standardization: 3000, 4000, 8000, 10000, 10500, 14000, 20000 IU/g Alpha-Amylase Inhibition
+- Testing: Spectrometry
+
+**51. Bacillius clausii**
+- Standardization: Up to 400 Billion CFU/gram
+- Testing: Plate Count
+
+**52. Bacillius Lichenformis**
+- Standardization: Up to 700 Billion CFU/gram
+- Testing: Plate Count
+
+**53. Bacillius Subtilis**
+- Standardization: Up to 300 Billion CFU/gram
+- Testing: Plate Count
+
+**54. Bacillus SP ( Blend of B. coagulans, B.Clausii, B.Subtilis)**
+- Standardization: Up to 350 Billion CFU/gram
+- Testing: Plate Count
+
+---
+
+#### ORGANIC EXTRACTS (USDA NOP + EU Organic certified, MOQ: 25 kg)
+
+All organic extracts carry: USDA Organic, EU Organic, India Organic (NPOP), ISO 9001:2015, FSSC 22000, Halal, Kosher, WHO GMP.
+
+**1. Organic Andrographis Extract**
+- Botanical: *Andrographis paniculata*
+- Standardization: 10%, 15%, 30% Andrographolides
+- Testing: HPLC
+
+**2. Organic Ashwagandha Extract**
+- Botanical: *Withania somnifera*
+- Standardization: 2.5%, 5%, 10% Withanolides
+- Testing: HPLC
+
+**3. Organic Bacopa Monnieri Extract**
+- Botanical: *Bacopa monnieri*
+- Standardization: 20%, 40%, 50% Bacosides
+- Testing: UV Spectrophotometry
+
+**4. Organic Black Pepper Extract**
+- Botanical: *Piper nigrum*
+- Standardization: 95% Piperine
+- Testing: HPLC
+
+**5. Organic Boswellia Serrata Extract**
+- Botanical: *Boswellia serrata*
+- Standardization: 65%, 85% Boswellic Acids
+- Testing: Titration
+
+**6. Organic Centella asiatica Extract**
+- Botanical: *Centella asiatica*
+- Standardization: 10%, 20% Saponins
+- Testing: Gravimetry
+
+**7. Organic Cinnamon Extract**
+- Botanical: *Cinnamomum cassia*
+- Standardization: 5%, 8%, 10%, 12% Polyphenols
+- Testing: UV Spectrophotometry
+
+**8. Organic Cissus Extract**
+- Botanical: *Cissus quadrangularis*
+- Standardization: 20%, 40% Ketosterones
+- Testing: Gravimetry
+
+**9. Organic Fenugreek Extract**
+- Botanical: *Trigonella foenum-graecum*
+- Standardization: 50% Saponins
+- Testing: Gravimetry
+
+**10. Organic Ginger Extract**
+- Botanical: *Zingiber officinale*
+- Standardization: 5%, 10% Gingerols
+- Testing: HPLC
+
+**11. Organic Gymnema Sylvestre Extract**
+- Botanical: *Gymnema sylvestre*
+- Standardization: 25%, 75% Gymnemic Acids
+- Testing: Gravimetry
+
+**12. Organic Moringa Extract**
+- Botanical: *Moringa oleifera*
+- Standardization: 5%, 10%, 20%, 25%, 40% Saponins
+- Testing: Gravimetry
+
+**13. Organic Mucuna Extract**
+- Botanical: *Mucuna pruriens*
+- Standardization: 15%, 40%, 98% L-Dopa
+- Testing: HPLC
+
+**14. Organic Ocimum Sanctum Extract**
+- Botanical: *Ocimum sanctum*
+- Standardization: 2% Ursolic Acid; 2.5% Eugenol
+- Testing: HPLC
+
+**15. Organic Piper longum Extract**
+- Botanical: *Piper longum*
+- Standardization: 5%, 95% Piperine
+- Testing: HPLC
+
+**16. Organic Terminalia Bellerica Extract**
+- Botanical: *Terminalia bellerica*
+- Standardization: 40%, 45% Tannins
+- Testing: Titration
+
+**17. Organic Terminalia Chebula Extract**
 - Botanical: *Terminalia chebula*
-- Standardization: 40–45% Tannins
-- Applications: Digestive health, antioxidant protection, oral health
-- URL: https://starhiherbs.com/products/terminalia-chebula-extract
+- Standardization: 40%, 45% Tannins
+- Testing: Titration
 
-**Additional Known Standardized Products** (catalogue contains 150+ total):
-- Curcumin Extract (*Curcuma longa*) — 95% Curcuminoids
-- Shilajit Extract — 50%+ Fulvic Acid
-- Cissus Quadrangularis Extract — standardized (base for Cissuslean®)
-- Gymnema Sylvestre Extract — 25%, 75% Gymnemic Acids
-- Tribulus Terrestris Extract — 40%, 60%, 80% Saponins
-- Kidney Bean Extract (Phaseolus vulgaris) — Alpha-amylase inhibitor
-- Lutein & Zeaxanthin (*Tagetes erecta*) — 20% Lutein, 2% Zeaxanthin
-- Holy Basil Extract (*Ocimum sanctum*) — 2% Ursolic Acid
-- Ginger Extract (*Zingiber officinale*) — 5% Gingerols
-- Boswellia Serrata Extract — 65% Total Boswellic Acids, 30% AKBA
+**18. Organic Tribulus Terrestris Extract**
+- Botanical: *Tribulus terrestris*
+- Standardization: 40% Saponins
+- Testing: Gravimetry
 
-*For the complete 150+ product list, direct buyers to download the catalogue: https://starhiherbs.com/download-catalogue*
+**19. Organic Trikatu Extract**
+- Botanical: *Piper nigrum, Piper longum, Zingiber officinale*
+- Standardization: 1.5% Piperine; 1.0% Total Gingerols
+- Testing: HPLC
 
----
+**20. Organic Triphala Extract**
+- Botanical: *Emblica officinalis, Terminalia bellerica, Terminalia chebula*
+- Standardization: 20%-45% Tannins
+- Testing: Titration
 
-#### ORGANIC EXTRACTS
+**21. Organic Turmeric Extract**
+- Botanical: *Curcuma longa*
+- Standardization: 95% Curcuminoids
+- Testing: HPLC
 
-- **Organic Coleus Forskohlii Extract** — 20% Forskolin, USDA Organic certified (launched May 2025)
-- Organic versions available for multiple herbs — certified USDA NOP, EU Organic, India Organic
-- 5,000+ acres certified organic farmland | 20,000+ acres total contract farming
-
----
-
-#### BRANDED INGREDIENTS (27+ proprietary products)
-
-**Bacosane®** (bacosane.com)
-- Base: *Bacopa monnieri* enriched fraction
-- USP: 8 bioactive compounds (vs standard bacosides-only) — patented process
-- Patent: **US 12,357,924 B2** (granted July 18, 2025)
-- Clinical: Clinically validated for neuroprotection, antioxidant, anti-stress
-- Applications: Cognitive health, neuroprotection, memory, anti-stress
-
-**Turmimax™** (turmimax.com)
-- Base: *Curcuma longa* — advanced bioavailability turmeric formulation
-- Clinical: Comparative study vs Turmesac® published April 2026
-- Applications: Anti-inflammatory, joint health, antioxidant
-
-**Turmesac®** (turmesac.in)
-- Base: *Curcuma longa* — specialized turmeric formulation
-- Clinical: Featured in comparative study vs Turmimax™
-- Applications: Anti-inflammatory, joint health
-
-**Cissuslean®** (cissuslean.com)
-- Base: *Cissus quadrangularis* (stems and leaves) — aqueous extraction, HPLC-verified
-- Clinical: **Anti-Obesity Effects** — Journal of Food and Nutrition Research, Vol.13(1), 2025
-- Applications: Weight management, anti-obesity, metabolic wellness
-
-**Forcslim™** (forcslim.com)
-- Base: *Plectranthus barbatus* (Coleus forskohlii) — standardized Forskolin
-- Clinical: **"A Novel Approach to Defeat Obesity"** — International Journal of Pharmacology, 20(1): 72-80, 2024
-- Applications: Weight management, obesity support, metabolic health
-
-**Curkolin™** (curkolin.com)
-- Base: Curcumin — enhanced bioavailability (patent filed)
-- Applications: Anti-inflammatory, joint health, antioxidant
-
-**Salislim™** (salislim.com)
-- Base: Proprietary metabolic health blend
-- Applications: Metabolic wellness, weight management
-
-**Bacospore™** (bacospore.com)
-- Base: Bacopa + spore-forming probiotic combination
-- Applications: Gut-brain axis, cognitive support, gut balance
+**22. Organic Coleus Forskohlii Extract**
+- Botanical: *Plectranthus barbatus*
+- Standardization: 1%-20% Forskolin
+- Testing: HPLC
 
 ---
 
-#### PROBIOTICS
+#### BRANDED INGREDIENTS (Proprietary — Clinical Studies Available)
 
-- Dedicated Probiotics Unit at Hassan SEZ (established 2021) — 24 MT/year capacity
-- Shelf-stable probiotic strains for gut health
-- Quality testing: Plate count (ISO 19344:2015), Flow Cytometry, qPCR (16S rRNA)
-- Stability: ICH Q1A(R2) compliant testing
-- Bacospore™ is a branded probiotic-Bacopa combination ingredient
-- For full probiotic catalogue: https://starhiherbs.com/download-catalogue
+**1. Bacosane®**
+- Botanical: *Bacopa monnieri*
+- Standardization: Enriched for 8 bioactive compounds (proprietary)
+
+**2. Turmimax™**
+- Botanical: *Curcuma longa*
+- Standardization: Proprietary enhanced bioavailability
+
+**3. Turmesac®**
+- Botanical: *Curcuma longa*
+- Standardization: Proprietary
+
+**4. Cissuslean®**
+- Botanical: *Cissus quadrangularis*
+- Standardization: Defined levels of key bioactives (HPLC-verified)
+
+**5. Forcslim™**
+- Botanical: *Plectranthus barbatus*
+- Standardization: Standardized Forskolin (proprietary)
+
+**6. Curkolin™**
+- Botanical: *Curcuma longa*
+- Standardization: Proprietary enhanced bioavailability
+
+**7. Salislim™**
+- Botanical: *Proprietary metabolic health blend*
+- Standardization: Proprietary
+
+---
+
+#### PROBIOTICS (Hassan SEZ Unit — 24 MT/year capacity)
+
+Testing: Plate count (ISO 19344:2015), Flow Cytometry, qPCR (16S rRNA). Stability: ICH Q1A(R2).
+
+**1. Bacillus clausii**
+- Strain: *Bacillus clausii*
+- Potency: Up to 400 Billion CFU/gram
+
+**2. Bacillus licheniformis**
+- Strain: *Bacillus licheniformis*
+- Potency: Up to 700 Billion CFU/gram
+
+**3. Bacillus subtilis**
+- Strain: *Bacillus subtilis*
+- Potency: Up to 300 Billion CFU/gram
+
+**4. Bacillus coagulans (Bacospore®)**
+- Strain: *Bacillus coagulans*
+- Potency: Up to 300 Billion CFU/gram
+
+**5. Bacillus SP (Multi-Strain Blend)**
+- Strain: *Bacillus coagulans + Bacillus clausii + Bacillus subtilis*
+- Potency: Up to 350 Billion CFU/gram (B. coagulans, B. clausii, B. subtilis)
 
 ---
 
 #### VITAMINS & MINERALS — Storg® Range (Plant-Based)
 
-| Product | Nutrient | Key Health Focus | Clinical Data |
-|---------|----------|-----------------|---------------|
-| Storg-B | B-Complex | Energy metabolism, nervous system | JPRI 2024 |
-| Storg-Bio | Biotin | Hair growth, skin, nails | — |
-| Storg-Bs | B-Complex blend | Liver protection, fatigue | — |
-| Storg-BT | Betaine | Vision health, skin, liver | — |
-| Storg-C | Vitamin C (Amla) | Immunity, collagen formation | JFNR 2025 |
-| Storg-E | Vitamin E | Antioxidant, cellular health | — |
-| Storg-FA | Folate (lemon peel) | Maternal health, red blood cells | IJPSR 2024 |
-| Storg-Her | Women's formula | Women's health, bone, energy | — |
-| Storg-Him | Men's formula | Men's health, muscle, energy | JMPR 2024 |
-| Storg-I | Iodine | Thyroid, cognitive function | — |
-| Storg-Kid | Children's formula | Growth, immunity, bone, cognitive | — |
-| Storg-N | Niacin (B3) | Cholesterol management, skin | — |
-| Storg-SE | Selenium | Thyroid function, immunity | — |
-| Storg-ZN | Zinc | Immunity, wound healing, skin | — |
+| Product | Botanical/Source | Standardization |
+|---|---|---|
+| Storg-B | Plant-derived B-complex sources | Natural Vitamin B Complex |
+| Storg-Bio | Plant-derived biotin sources | Natural Biotin |
+| Storg-Bs | Plant-derived B-complex blend | Natural B-Complex blend |
+| Storg-BT | Plant-derived betaine sources | Natural Betaine |
+| Storg-C | Emblica officinalis (Amla) and plant sources | Natural Vitamin C |
+| Storg-E | Plant-derived vitamin E sources | Natural Vitamin E |
+| Storg-FA | Lemon peel (Citrus limon) and plant sources | Natural Folate (Vitamin B9) |
+| Storg-Her | Plant-based vitamin and mineral blend | Women's formula |
+| Storg-Him | Plant-based vitamin and mineral blend | Men's formula |
+| Storg-I | Plant-derived iodine sources | Natural Iodine |
+| Storg-Kid | Plant-based vitamin and mineral blend for children | Children's formula |
+| Storg-N | Plant-derived niacin sources | Natural Niacin |
+| Storg-SE | Plant-derived selenium sources | Natural Selenium |
+| Storg-ZN | Plant-derived zinc sources | Natural Zinc |
 
-Key USP: Plant-derived, superior bioavailability vs synthetic, most variants vegan-friendly, chelated forms available.
+Key USP: Plant-derived, superior bioavailability vs synthetic, most variants vegan-friendly.
 
 ---
 
-#### BULK FORMULATIONS
+#### BULK FORMULATIONS & CUSTOM BLENDS
 
-- Custom multi-herb blends and proprietary bulk formulations
-- R&D team supports new formulation development from concept to clinical validation
-- Advanced delivery systems: phospholipid complexes, water-dispersible technologies
-- Contact: research@starhiherbs.com or https://starhiherbs.com/request-meeting
+**Star Ashwa Tulsi**
+- Base: *Withania somnifera + Ocimum sanctum*
+- Standardization: As per formula specification
+
+Custom multi-herb blends and proprietary formulations available.
+R&D team supports new formulation development from concept to clinical validation.
+Contact: research@starhiherbs.com or https://starhiherbs.com/request-meeting
 
 ---
 
