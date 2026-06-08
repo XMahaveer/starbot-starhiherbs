@@ -90,7 +90,7 @@ module.exports = async function handler(req, res) {
 
     const response = await client.messages.create({
       model: "claude-sonnet-4-5",
-      max_tokens: 1000,
+      max_tokens: 2000,
       system: systemPrompt,
       messages,
     });
